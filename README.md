@@ -1,0 +1,2 @@
+# freeRTOSonTMS570LS1227
+porting FreeRTOS to TMS570LS1227
